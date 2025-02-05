@@ -4,6 +4,7 @@
 /docs/.vitepress/dist
 .idea/
 .obsidian/
+node_modules
 
 # Files
 .DS_Store
