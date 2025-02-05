@@ -1,0 +1,14 @@
+# Folders
+/docs/.vitepress/cache
+/docs/.vitepress/.temp
+/docs/.vitepress/dist
+.idea/
+.obsidian/
+
+# Files
+.DS_Store
+
+# Alternative Package Locks
+pnpm-lock.yaml
+yarn.lock
+/.vs
