@@ -1,7 +1,7 @@
 ## Github
 STG-Project-LA：[链接](https://github.com/STG-Open-Source-Organization/STG-Project-LA "链接title文本")  
 
-STG地图存储项目(STG-WorldGen）：[链接](STG-Open-Source-Organization/STG-WorldGen "链接title文本")  
+STG地图存储项目(STG-WorldGen）：[链接](https://github.com/STG-Open-Source-Organization/STG-WorldGen "链接title文本")  
 
 STG爱丽丝企划游戏部分（STG-ProjectA.L.I.C.E-G）[链接](https://github.com/STG-Open-Source-Organization/STG-ProjectA.L.I.C.E-G "链接title文本")    
 
